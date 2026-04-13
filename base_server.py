@@ -1,5 +1,5 @@
 
-#lol
+
 
 import socket
 import struct
